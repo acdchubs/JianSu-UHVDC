@@ -21,7 +21,7 @@ In the second commissioning test, for the entire day, June 29th, 2023, the JianS
 ### `12000-MW` Commissioning Experiment
 During the period, March 1st, 2024, 1:30 AM - 2:30 AM, the sending end transferred a total amount of 4 GW power and the power reciprocity control successfully reached a maximum of 2 GW for the first time and the other two VSCs also reached their maximum design capacities (2 GW each), effectively alleviate the power shortage issue in the southern load center. The operation data of the JianSu-UHVDC system is shown in Figure 7, marking a milestone of the first-ever implementation of large-capacity, flexible power flow in AC-DC hybrid interconnected grids. (Video available at: https://github.com/acdchubs)
 
-![Commissioning Experiment2](https://github.com/acdchubs/JianSu-UHVDC/blob/main/milestoneSet/1000.gif)
+![Commissioning Experiment2](https://github.com/acdchubs/JianSu-UHVDC/blob/main/milestoneSet/2000.gif)
 
 > [!NOTE]
 > Data and video(gif format) for paper.
