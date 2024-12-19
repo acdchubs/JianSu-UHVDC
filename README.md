@@ -37,7 +37,7 @@ From November 13th to November 18th, 2024, the power transfer at the sending end
 
 From March 1st to March 18th, 2024, the power transfer at the sending end varied from 800 MW to 1414 MW; at the receiving end, a total power reciprocity command was set to three levels, including 1200 MW, 1600MW, and 600 MW. The time-series DC power curve is depicted in Figure 9. (Data and video available at: https://github.com/acdchubs)
 
-![Commissioning Experiment2](https://github.com/acdchubs/JianSu-UHVDC/blob/main/operationLog/change-1.gif)
+![Commissioning Experiment2](./operationLog/change-1.gif)
 
 
 > [!NOTE]
