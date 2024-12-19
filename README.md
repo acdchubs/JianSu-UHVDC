@@ -23,5 +23,22 @@ During the period, March 1st, 2024, 1:30 AM - 2:30 AM, the sending end transferr
 
 ![Commissioning Experiment2](https://github.com/acdchubs/JianSu-UHVDC/blob/main/milestoneSet/2000.gif)
 
+## Long-term operational logs under various conditions
+
+From April 21st, 2023, to November 18th, 2024, the JianSu-UHVDC system was partially converted to the power reciprocity control mode to relieve the power shortage burden in the southern load center. A detailed operational log is provided in Table 3, including the activation time of the power reciprocity mode, DC power command, the actual DC power measurements for power reciprocity, and the total energy delivered to the southern load center.
+
+### power reciprocity: fix
+
+From November 13th to November 18th, 2024, the power transfer at the sending end varied from 800 MW to 3500 MW; at the receiving end, a total power reciprocity command was fixed at 800 MW. The time-series DC power curve is depicted in Figure 8. (Data and video available at: https://github.com/acdchubs)
+
+![Commissioning Experiment2](https://github.com/acdchubs/JianSu-UHVDC/blob/main/operationLog/fix.gif)
+
+### power reciprocity: change
+
+From March 1st to March 18th, 2024, the power transfer at the sending end varied from 800 MW to 1414 MW; at the receiving end, a total power reciprocity command was set to three levels, including 1200 MW, 1600MW, and 600 MW. The time-series DC power curve is depicted in Figure 9. (Data and video available at: https://github.com/acdchubs)
+
+![Commissioning Experiment2](https://github.com/acdchubs/JianSu-UHVDC/blob/main/operationLog/change-1.gif)
+
+
 > [!NOTE]
 > Data and video(gif format) for paper.
