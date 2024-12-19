@@ -31,7 +31,7 @@ From April 21st, 2023, to November 18th, 2024, the JianSu-UHVDC system was parti
 
 From November 13th to November 18th, 2024, the power transfer at the sending end varied from 800 MW to 3500 MW; at the receiving end, a total power reciprocity command was fixed at 800 MW. The time-series DC power curve is depicted in Figure 8. (Data and video available at: https://github.com/acdchubs)
 
-![Commissioning Experiment2](https://github.com/acdchubs/JianSu-UHVDC/blob/main/operationLog/fix.gif)
+![Commissioning Experiment2](https://github.com/acdchubs/JianSu-UHVDC/blob/main/operationLog/fix.gif?raw=true)
 
 ### power reciprocity: `change`
 
