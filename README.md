@@ -54,3 +54,7 @@ From March 1st to March 18th, 2024, the power transfer at the sending end varied
 
 > [!NOTE]
 > Data and video(gif format) for paper.
+
+> [!TIP]
+> And you can see [a interactive introduction](jiansu.streamlit.app)
+> 
