@@ -4,7 +4,7 @@ Known as the first of its kind, the JianSu-UHVDC system takes full advantage of 
 
 Through high-fidelity simulation studies and a series of real-world commissioning experiments, stable operation of the JianSu-UHVDC system is achieved that can reliably deliver 4 GW power at the sending end and enable flexible power reciprocity at a maximum capacity of 2 GW among the three VSCs at the receiving end operating at their full capacity. 
 
-This novel multi-terminal UHVDC system provides **a new solution** to hyper-scale, flexible, and rapid power flow control for secure electricity delivery to heavy load centers without building new power plants.
+This novel multi-terminal UHVDC system provides ✨a new solution✨ to hyper-scale, flexible, and rapid power flow control for secure electricity delivery to heavy load centers without building new power plants.
 
 ## Milestones of real-world commissioning experiments
 
